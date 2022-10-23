@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/acharya-portfolio/static/css/main.b56d1fee.css",
+    "main.js": "/acharya-portfolio/static/js/main.641c82c4.js",
+    "index.html": "/acharya-portfolio/index.html",
+    "main.b56d1fee.css.map": "/acharya-portfolio/static/css/main.b56d1fee.css.map",
+    "main.641c82c4.js.map": "/acharya-portfolio/static/js/main.641c82c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b56d1fee.css",
+    "static/js/main.641c82c4.js"
+  ]
+}
