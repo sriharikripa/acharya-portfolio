@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.about-pundit-body{    
+    /* border: 2px solid pink; */
+    display: flex;  
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-pundit{
+    /* border: 2px solid red; */
+    display: flex;    
+    padding: 0px 20px;
+    max-width: 1200px;
+    flex-grow: 2;
+    align-items: center;
+}
+
+.pundit-img{
+    /* border: 2px solid black;     */
+    flex-grow: 1;
+    min-width: 300px;
+}
+
+.pundit-desc{
+    /* border: 2px solid green; */
+    flex-grow: 2;
+    padding: 20px;
+}
+
+.pundit-button{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    max-width: 350px;
+}
+
+.pundit-contact{
+    font-family: 'Open Sans', sans-serif;
+    color: #FF3300;
+    background-color: white;
+    border: 1px solid #FF3300;
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.pundit-read{
+    font-family: 'Open Sans', sans-serif;
+    color: #FF3300;
+    background-color: white;
+    border: 1px solid #FF3300;
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.puja-img-body{
+    display: flex;
+    flex-flow: column;    
+    border: solid 4px red;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.puja-img-row-one{    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.puja-img-row-two{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

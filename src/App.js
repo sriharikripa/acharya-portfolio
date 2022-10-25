@@ -1,16 +1,16 @@
 import {BrowserRouter as Router,Route,Switch} from 'react-router-dom';
 import Navbar from './Components/Navbar.js'
+import Home from './Components/Home/Home.js';
 
 function App() {
   return (
     <Router>     
       <Navbar />
-      <div className="App">
-      <h1>Home</h1>
+      <div className="App">      
         <div className="content">
           <Switch>
-            <Route exact path="/"> 
-              <h3>Comming Soon</h3>
+            <Route exact path="/acharya-portfolio/"> 
+              <Home/>
             </Route>
             <Route path="/abc"> 
               <h2>abc</h2>

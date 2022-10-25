@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.imagecards-body{
+    /* border: 3px solid black; */
+    margin: 20px;    
+    background-color: white;    
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-flow: column;
+    align-items: center;    
+}
+
+.imagecards-img-body{
+    height: 250px;    
+}
+
