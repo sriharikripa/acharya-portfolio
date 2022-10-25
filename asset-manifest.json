@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/acharya-portfolio/static/css/main.b56d1fee.css",
-    "main.js": "/acharya-portfolio/static/js/main.641c82c4.js",
+    "main.css": "/acharya-portfolio/static/css/main.4e36a4a9.css",
+    "main.js": "/acharya-portfolio/static/js/main.09f09643.js",
+    "static/media/carousel2.jpg": "/acharya-portfolio/static/media/carousel2.6fe691855df8a8e96bae.jpg",
+    "static/media/carousel3.jpg": "/acharya-portfolio/static/media/carousel3.773f750eb8ae5eb6eb37.jpg",
+    "static/media/carousel1.jpg": "/acharya-portfolio/static/media/carousel1.feada8e7ebf7a527daa9.jpg",
+    "static/media/puja4.jpg": "/acharya-portfolio/static/media/puja4.5b2ed0748ea3cc0e3e5d.jpg",
+    "static/media/puja8.jpg": "/acharya-portfolio/static/media/puja8.dd4fa9bd8f8e53fa6ce9.jpg",
+    "static/media/puja2.jpg": "/acharya-portfolio/static/media/puja2.cce31867a9c51f6f4641.jpg",
+    "static/media/puja6.jpg": "/acharya-portfolio/static/media/puja6.096cb31663393b6b36da.jpg",
+    "static/media/puja1.jpg": "/acharya-portfolio/static/media/puja1.e5ef3aae42c15ba139ac.jpg",
+    "static/media/puja5.jpg": "/acharya-portfolio/static/media/puja5.9751c7f8c7a8102e71c6.jpg",
+    "static/media/puja7.jpg": "/acharya-portfolio/static/media/puja7.85b914d44b0fe7c5b141.jpg",
+    "static/media/puja3.jpg": "/acharya-portfolio/static/media/puja3.c78a818e99d53a7ac04d.jpg",
     "index.html": "/acharya-portfolio/index.html",
-    "main.b56d1fee.css.map": "/acharya-portfolio/static/css/main.b56d1fee.css.map",
-    "main.641c82c4.js.map": "/acharya-portfolio/static/js/main.641c82c4.js.map"
+    "main.4e36a4a9.css.map": "/acharya-portfolio/static/css/main.4e36a4a9.css.map",
+    "main.09f09643.js.map": "/acharya-portfolio/static/js/main.09f09643.js.map"
   },
   "entrypoints": [
-    "static/css/main.b56d1fee.css",
-    "static/js/main.641c82c4.js"
+    "static/css/main.4e36a4a9.css",
+    "static/js/main.09f09643.js"
   ]
 }
