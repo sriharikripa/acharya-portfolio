@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.footer-body{    
+    background-color: rgb(46, 46, 46);
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer{    
+    /* border: 3px solid black; */
+    padding: 20px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    justify-content: space-between;
+}
+
+.contact-info{
+    /* border: 2px white solid; */
+    max-width: 30%;
+}
+
+.heading{
+    border-left: 3px solid red;
+    padding-left: 15px;
+}
+
+.links-page{
+    border-left: 3px solid red;
+    padding-left: 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

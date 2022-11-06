@@ -1,4 +1,4 @@
-
+import { Link } from 'react-router-dom';
 import Carouselcomp from '../Carouselcomp';
 import carousel1 from '../../images/carousel1.jpg'
 import carousel2 from '../../images/carousel2.jpg'
@@ -72,6 +72,62 @@ const Home = () => {
                     <Imagecards img={puja8} text="Graha Yagna"/>
                 </div>
             </div>
+            <div className="pundit-details">
+                <h1>Best North Indian Pundit in Banglore</h1>
+                <p>Being a North Indian Pandit in bangalore shastri Ji 
+                   serves exact and customized religious needs with pooja samagri at a 
+                   reasonable Dakshina. Services offered by Chaitanya Shastri specializes 
+                   in conducting religious rituals like Naming ceremony, Vastu shanti, 
+                   New Office,pravesh, Birthday ceremony puja, Mundan ceremony, Thread wearing 
+                   ceremony, SatyaNarayan Pooja and Griha Pravesh in and around Bangalore.
+                </p>
+                <p>
+                    Appropriate date and time for performing the ceremony can be suggested by the 
+                    pandits by referring to panchang. Customers can book Best pandit in bangalore 
+                    of their choice along with samagri, or they themselves can arrange for the pooja 
+                    essentials.we have a group of pandits settled down in Bangalore to serve all kinds
+                    of puja related to every state. Materials necessary for pooja can also be 
+                    purchased from the website while booking pandits. Pandits will perform pooja 
+                    as per the customers state rituals, language, and community. Nowadays many 
+                    commercial websites are available for booking pandits online, It is necessary 
+                    to carry out proper research and review for choosing an honest site to book best 
+                    Hindi Pandit in Bangalore and one of the best websites for availing pooja 
+                    services online is shubhpandit.com as Pandit Chaitany Shastri has more than 10 
+                    years of experience. Also, His Dakshina for pooja is reasonable and less when 
+                    compared with other service providers. Different Social media panels of shastri 
+                    ji can be used to book North Indian Pandits in Bangalore. To book pandits 
+                    the user have to access any of the pooja service provided by us , the user have 
+                    to leave an inquiry with the pooja they want to perform.
+                </p>
+                <ul>
+                    <li>
+                        All the details about puja along with the shastri ji contact details is available
+                        in the website.if you are looking for Best north indian Pandit in bangalore for performing pooja you are on the right page a complete catalog of best pandits in available here.
+                    </li>
+                    <li>
+                        The puja includes Dakshina, samagries, Havan and flowers and fruits necessary for pooja. 
+                    </li>
+                    <li>
+                        The user can either request the pandit to fix the date for pooja by providing the rasi and Nakshatra of the person. Pandit chaitanya shastri is also known as the best
+                        Bihari pandit in Bangalore to perform all the puja and rituals related to Bihar .
+                    </li>
+                    <li>
+                        The devotees can make advance Dakshina for pooja through this website. It can be done through cash, Net banking, and UPI payments also.
+                    </li>
+                </ul>
+
+                <h1>
+                    Looking for best Hindi, Bihari or North Indian Pandit in Bangalore ?
+                </h1>
+                <p>
+                    Pandit Chaitanya Shastri is also famous as a Bihari Pandit in Bangalore . He provide all kind of Puja and anushthan services according to Bihar culture He conducts 
+                    different religious ceremonies at your place.he provides one stop solutions for all types of puja with puja samagri.if You are looking to book online Bihari pandit in 
+                    bangalore you can do it directly through this website. He is a well known pandit in Bangalore RT Nagar.
+                </p>
+                <div className="pundit-button">
+                    <Link to="/acharya-portfolio/contact" className='pundit-contact-button'>CONTACT NOW</Link>                            
+                </div>
+            </div>                            
         </div>
     );
 }
