@@ -1,17 +1,17 @@
 import { Link } from 'react-router-dom';
 import Carouselcomp from '../Carouselcomp';
-import carousel1 from '../../images/carousel1.jpg'
-import carousel2 from '../../images/carousel2.jpg'
-import carousel3 from '../../images/carousel3.jpg'
-import punditimg from '../../images/punditimg.png'
-import puja1 from '../../images/puja1.jpg'
-import puja2 from '../../images/puja2.jpg'
-import puja3 from '../../images/puja3.jpg'
-import puja4 from '../../images/puja4.jpg'
-import puja5 from '../../images/puja5.jpg'
-import puja6 from '../../images/puja6.jpg'
-import puja7 from '../../images/puja7.jpg'
-import puja8 from '../../images/puja8.jpg'
+import carousel1 from '../../images/carousel1.webp'
+import carousel2 from '../../images/carousel2.webp'
+import carousel3 from '../../images/carousel3.webp'
+import punditimg from '../../images/punditimg.webp'
+import puja1 from '../../images/puja1.webp'
+import puja2 from '../../images/puja2.webp'
+import puja3 from '../../images/puja3.webp'
+import puja4 from '../../images/puja4.webp'
+import puja5 from '../../images/puja5.webp'
+import puja6 from '../../images/puja6.webp'
+import puja7 from '../../images/puja7.webp'
+import puja8 from '../../images/puja8.webp'
 import './Home.css'
 import Imagecards from '../Imagecards';
 
@@ -28,28 +28,21 @@ const Home = () => {
                     <div className="pundit-desc">
                         <h2>WELCOME TO ACHARYA KESHAV JI</h2>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and 
-                            typesetting industry. Lorem Ipsum has been the industry's 
-                            standard dummy text ever since the 1500s, when an unknown 
-                            printer took a galley of type and scrambled it to make a 
-                            type specimen book. It has survived not only five centuries
-                            , but also the leap into electronic typesetting, remaining 
-                            essentially unchanged. It was popularised in the 1960s with 
-                            the release of Letraset sheets containing Lorem Ipsum 
-                            passages, and more recently with desktop publishing software 
-                            like Aldus PageMaker including versions of Lorem Ipsum.
+                            Being a North Indian Pandit in bangalore shastri Ji 
+                            serves exact and customized religious needs with pooja 
+                            samagri at a reasonable Dakshina. Services offered by 
+                            Acharya Keshav Ji specializes in conducting religious 
+                            rituals like Naming ceremony, Vastu shanti, New Office,pravesh, 
+                            Birthday ceremony puja, Mundan ceremony, Thread wearing ceremony, 
+                            SatyaNarayan Pooja and Griha Pravesh in and around Bangalore.
                         </p>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and 
-                            typesetting industry. Lorem Ipsum has been the industry's 
-                            standard dummy text ever since the 1500s, when an unknown 
-                            printer took a galley of type and scrambled it to make a 
-                            type specimen book. It has survived not only five centuries
-                            , but also the leap into electronic typesetting, remaining 
-                            essentially unchanged. It was popularised in the 1960s with 
-                            the release of Letraset sheets containing Lorem Ipsum 
-                            passages, and more recently with desktop publishing software 
-                            like Aldus PageMaker including versions of Lorem Ipsum.
+                        Acharya Keshav Ji is also famous as a Bihari Pandit in Bangalore . 
+                        He provide all kind of Puja and anushthan services according to Bihar 
+                        culture He conducts different religious ceremonies at your place.he provides 
+                        one stop solutions for all types of puja with puja samagri.if You are 
+                        looking to book online Bihari pandit in bangalore you can do it directly 
+                        through this website. He is a well known pandit in Bangalore.
                         </p>
                         <div className="pundit-button">
                             <button className='pundit-contact'>CONTACT NOW</button>
@@ -76,7 +69,7 @@ const Home = () => {
                 <h1>Best North Indian Pundit in Banglore</h1>
                 <p>Being a North Indian Pandit in bangalore shastri Ji 
                    serves exact and customized religious needs with pooja samagri at a 
-                   reasonable Dakshina. Services offered by Chaitanya Shastri specializes 
+                   reasonable Dakshina. Services offered by Acharya Keshav Ji specializes 
                    in conducting religious rituals like Naming ceremony, Vastu shanti, 
                    New Office,pravesh, Birthday ceremony puja, Mundan ceremony, Thread wearing 
                    ceremony, SatyaNarayan Pooja and Griha Pravesh in and around Bangalore.
@@ -92,7 +85,7 @@ const Home = () => {
                     commercial websites are available for booking pandits online, It is necessary 
                     to carry out proper research and review for choosing an honest site to book best 
                     Hindi Pandit in Bangalore and one of the best websites for availing pooja 
-                    services online is shubhpandit.com as Pandit Chaitany Shastri has more than 10 
+                    services online as Acharya Keshav Ji has more than 10 
                     years of experience. Also, His Dakshina for pooja is reasonable and less when 
                     compared with other service providers. Different Social media panels of shastri 
                     ji can be used to book North Indian Pandits in Bangalore. To book pandits 
@@ -108,7 +101,7 @@ const Home = () => {
                         The puja includes Dakshina, samagries, Havan and flowers and fruits necessary for pooja. 
                     </li>
                     <li>
-                        The user can either request the pandit to fix the date for pooja by providing the rasi and Nakshatra of the person. Pandit chaitanya shastri is also known as the best
+                        The user can either request the pandit to fix the date for pooja by providing the rasi and Nakshatra of the person. Acharya Keshav Ji is also known as the best
                         Bihari pandit in Bangalore to perform all the puja and rituals related to Bihar .
                     </li>
                     <li>
@@ -120,9 +113,9 @@ const Home = () => {
                     Looking for best Hindi, Bihari or North Indian Pandit in Bangalore ?
                 </h1>
                 <p>
-                    Pandit Chaitanya Shastri is also famous as a Bihari Pandit in Bangalore . He provide all kind of Puja and anushthan services according to Bihar culture He conducts 
+                    Acharya Keshav Ji is also famous as a Bihari Pandit in Bangalore . He provide all kind of Puja and anushthan services according to Bihar culture He conducts 
                     different religious ceremonies at your place.he provides one stop solutions for all types of puja with puja samagri.if You are looking to book online Bihari pandit in 
-                    bangalore you can do it directly through this website. He is a well known pandit in Bangalore RT Nagar.
+                    bangalore you can do it directly through this website. He is a well known pandit in Bangalore.
                 </p>
                 <div className="pundit-button">
                     <Link to="/acharya-portfolio/contact" className='pundit-contact-button'>CONTACT NOW</Link>                            

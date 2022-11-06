@@ -18,8 +18,14 @@
 
 .pundit-img{
     /* border: 2px solid black;     */
-    flex-grow: 1;
+    flex-grow: 1;    
     min-width: 300px;
+}
+
+.pundit-img img{
+    /* border: 2px solid black;     */
+    width: 17em;
+    border-radius: 10px;
 }
 
 .pundit-desc{
@@ -77,7 +83,8 @@
 
 .pundit-details{
     font-family: 'Open Sans', sans-serif; 
-    padding: 20px;      
+    padding: 20px;   
+    text-align: justify;   
 }
 
 .pundit-details h1{

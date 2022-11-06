@@ -3,7 +3,7 @@ import './App.css'
 import Navbar from './Components/Navbar.js'
 import Home from './Components/Home/Home.js';
 import Footer from './Components/Footer.js';
-import whatsapp from './images/wp.png'
+import whatsapp from './images/wp.webp'
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
               <h2>abc</h2>
             </Route>
             <Route path="*">
-              <h3>404</h3>
+              <h3>Will be live on this page <br></br> Stay Tunned </h3>
             </Route>
           </Switch>
         </div>
