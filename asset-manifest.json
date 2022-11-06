@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/acharya-portfolio/static/css/main.fdccd471.css",
-    "main.js": "/acharya-portfolio/static/js/main.8d192fa4.js",
+    "main.css": "/acharya-portfolio/static/css/main.eeeddc10.css",
+    "main.js": "/acharya-portfolio/static/js/main.90ad5d27.js",
     "static/media/carousel2.jpg": "/acharya-portfolio/static/media/carousel2.6fe691855df8a8e96bae.jpg",
     "static/media/carousel3.jpg": "/acharya-portfolio/static/media/carousel3.773f750eb8ae5eb6eb37.jpg",
     "static/media/carousel1.jpg": "/acharya-portfolio/static/media/carousel1.feada8e7ebf7a527daa9.jpg",
@@ -15,11 +15,11 @@
     "static/media/puja3.jpg": "/acharya-portfolio/static/media/puja3.c78a818e99d53a7ac04d.jpg",
     "static/media/wp.png": "/acharya-portfolio/static/media/wp.1dd8ca2765f1f177ab22.png",
     "index.html": "/acharya-portfolio/index.html",
-    "main.fdccd471.css.map": "/acharya-portfolio/static/css/main.fdccd471.css.map",
-    "main.8d192fa4.js.map": "/acharya-portfolio/static/js/main.8d192fa4.js.map"
+    "main.eeeddc10.css.map": "/acharya-portfolio/static/css/main.eeeddc10.css.map",
+    "main.90ad5d27.js.map": "/acharya-portfolio/static/js/main.90ad5d27.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdccd471.css",
-    "static/js/main.8d192fa4.js"
+    "static/css/main.eeeddc10.css",
+    "static/js/main.90ad5d27.js"
   ]
 }
