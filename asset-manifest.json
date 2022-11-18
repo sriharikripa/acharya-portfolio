@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fdf5eef.css",
-    "main.js": "/static/js/main.2cad9172.js",
+    "main.css": "/static/css/main.7ae95fa1.css",
+    "main.js": "/static/js/main.ab97ebe6.js",
     "static/media/carousel1.webp": "/static/media/carousel1.f848b7395305e10bd13e.webp",
     "static/media/carousel3.webp": "/static/media/carousel3.d6f1e09a0796b0974b6e.webp",
     "static/media/carousel2.webp": "/static/media/carousel2.908f4bbcf9e4a7bf1ebd.webp",
     "static/media/puja6.webp": "/static/media/puja6.c1c91bbf54ddc577396d.webp",
+    "static/media/Pujapatri.jpg": "/static/media/Pujapatri.c52eb3ad04580889722f.jpg",
+    "static/media/puja11.jpg": "/static/media/puja11.6ab0ecc4f0db80895603.jpg",
     "static/media/puja8.webp": "/static/media/puja8.73b5935809a0a2710b16.webp",
     "static/media/puja7.webp": "/static/media/puja7.ad9ce7505ec7a45d9742.webp",
+    "static/media/puja9.jpg": "/static/media/puja9.dd591fa874861bb48c8f.jpg",
     "static/media/puja2.webp": "/static/media/puja2.c49ce3110fb98800549c.webp",
     "static/media/puja4.webp": "/static/media/puja4.f210310ea02c8b9bbe66.webp",
     "static/media/puja5.webp": "/static/media/puja5.2593280319e54224f459.webp",
@@ -16,11 +19,11 @@
     "static/media/puja1.webp": "/static/media/puja1.93238aa402847e2c9696.webp",
     "static/media/wp.webp": "/static/media/wp.2bd114f855212e1c2458.webp",
     "index.html": "/index.html",
-    "main.4fdf5eef.css.map": "/static/css/main.4fdf5eef.css.map",
-    "main.2cad9172.js.map": "/static/js/main.2cad9172.js.map"
+    "main.7ae95fa1.css.map": "/static/css/main.7ae95fa1.css.map",
+    "main.ab97ebe6.js.map": "/static/js/main.ab97ebe6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fdf5eef.css",
-    "static/js/main.2cad9172.js"
+    "static/css/main.7ae95fa1.css",
+    "static/js/main.ab97ebe6.js"
   ]
 }
