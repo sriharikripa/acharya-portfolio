@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4fdf5eef.css",
-    "main.js": "/static/js/main.07c1385c.js",
+    "main.js": "/static/js/main.2cad9172.js",
     "static/media/carousel1.webp": "/static/media/carousel1.f848b7395305e10bd13e.webp",
     "static/media/carousel3.webp": "/static/media/carousel3.d6f1e09a0796b0974b6e.webp",
     "static/media/carousel2.webp": "/static/media/carousel2.908f4bbcf9e4a7bf1ebd.webp",
@@ -17,10 +17,10 @@
     "static/media/wp.webp": "/static/media/wp.2bd114f855212e1c2458.webp",
     "index.html": "/index.html",
     "main.4fdf5eef.css.map": "/static/css/main.4fdf5eef.css.map",
-    "main.07c1385c.js.map": "/static/js/main.07c1385c.js.map"
+    "main.2cad9172.js.map": "/static/js/main.2cad9172.js.map"
   },
   "entrypoints": [
     "static/css/main.4fdf5eef.css",
-    "static/js/main.07c1385c.js"
+    "static/js/main.2cad9172.js"
   ]
 }
