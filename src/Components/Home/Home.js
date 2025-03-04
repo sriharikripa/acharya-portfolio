@@ -110,10 +110,10 @@ const Home = () => {
                 </ul>
 
                 <h1>
-                    Looking for best Hindi, Bihari or North Indian Pandit in Bangalore ?
+                    Looking for best Hindi or North Indian Pandit in Bangalore ?
                 </h1>
                 <p>
-                    Acharya Keshav Ji is also famous as a Bihari Pandit in Bangalore . He provide all kind of Puja and anushthan services according to Bihar culture He conducts 
+                    Acharya Keshav Ji is also famous as a Hindi Pandit in Bangalore . He provide all kind of Puja and anushthan services according to Bihar culture He conducts 
                     different religious ceremonies at your place.he provides one stop solutions for all types of puja with puja samagri.if You are looking to book online Bihari pandit in 
                     bangalore you can do it directly through this website. He is a well known pandit in Bangalore.
                 </p>
