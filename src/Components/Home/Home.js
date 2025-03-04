@@ -22,9 +22,7 @@ const Home = () => {
             <Carouselcomp img1={carousel1} img2={carousel2} img3={carousel3} />
             <div className="about-pundit-body">
                 <div className="about-pundit">
-                    <div className="pundit-img">
-                        <img src={punditimg} alt="" />
-                    </div>
+                    
                     <div className="pundit-desc">
                         <h2>WELCOME TO ACHARYA KESHAV JI</h2>
                         <p>
@@ -37,7 +35,7 @@ const Home = () => {
                             SatyaNarayan Pooja and Griha Pravesh in and around Bangalore.
                         </p>
                         <p>
-                        Acharya Keshav Ji is also famous as a Bihari Pandit in Bangalore . 
+                        Acharya Keshav Ji is also famous as a Hindi Pandit in Bangalore . 
                         He provide all kind of Puja and anushthan services according to Bihar 
                         culture He conducts different religious ceremonies at your place.he provides 
                         one stop solutions for all types of puja with puja samagri.if You are 
