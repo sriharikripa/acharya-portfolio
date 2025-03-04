@@ -22,7 +22,9 @@ const Home = () => {
             <Carouselcomp img1={carousel1} img2={carousel2} img3={carousel3} />
             <div className="about-pundit-body">
                 <div className="about-pundit">
-                    
+                    <div className="pundit-img">
+                        <img src={punditimg} alt="" />
+                    </div>
                     <div className="pundit-desc">
                         <h2>WELCOME TO ACHARYA KESHAV JI</h2>
                         <p>
